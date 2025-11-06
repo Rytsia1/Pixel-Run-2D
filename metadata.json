@@ -1,0 +1,5 @@
+{
+  "name": "Pixel Dino Run",
+  "description": "A simple side-scrolling dinosaur game where the player jumps to avoid obstacles. Score increases over time, and a high score is saved.",
+  "requestFramePermissions": []
+}
